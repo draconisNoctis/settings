@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>0153663A-D7BE-416C-9C01-B9B7D3251DBF</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>dict</string>
+			<key>plusSpaces</key>
+			<false/>
+			<key>text</key>
+			<string>LEO</string>
+			<key>url</key>
+			<string>http://dict.leo.org/#/search={query}&amp;searchLoc=0&amp;resultOrder=basic&amp;multiwordShowSingle=on</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>DA200B01-2D10-434E-8042-8B3BC78BA90C</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>php</string>
+			<key>plusSpaces</key>
+			<false/>
+			<key>text</key>
+			<string>PHP</string>
+			<key>url</key>
+			<string>http://www.php.net/search.php?show=quickref&amp;pattern={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
